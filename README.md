@@ -13,12 +13,17 @@ This project is a Discord bot written in Python. The bot is designed to provide 
 
 ## Installation
 
-1. Clone this repository to your local machine.
-2. Install the necessary dependencies using `pip install -r requirements.txt`.
+### 1. Cloning repository:
+<ul>
+<li>Clone the repo</li>
+<li>Run the bot.py and follow instructions</li>
+</ul>
 
-## Usage
-
-Run the bot using the command `python bot.py` in your command line.
+### 2. Downloading app
+<ul>
+<li>Download the package</li>
+<li>Run the bot.exe and follow instructions</li>
+</ul>
 
 ## License
 
